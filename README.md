@@ -1,4 +1,4 @@
-# script_ode_abm
+# script-ode-abm
 This repository contains the R and Python script for users and readers public access. Repository created 31-08-2025. 
 
 **Tchamou Malraux Fleury POTINDJI (2025).**
@@ -25,3 +25,11 @@ pass
 
 - Python 3.9+
 - Mesa (for agent-based modeling)
+
+# Citation
+
+If you use this repository (or any code in this repository) in your wourk, please cite
+
+Tchamou Malraux Fleury POTINDJI (2025). 
+From Compartments to Individuals: A Complementary Analysis of ODE and Agent-Based Models for Simulating methicillin-resistant Staphylococcus aureus Control Strategies in Hospitals. Master’s Thesis, Eberhard Karls University Tübingen.
+GitHub repository: https://github.com/mlrx-potindji/script-ode-abm.git
