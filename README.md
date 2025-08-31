@@ -31,5 +31,6 @@ pass
 If you use this repository (or any code in this repository) in your wourk, please cite
 
 Tchamou Malraux Fleury POTINDJI (2025). 
-From Compartments to Individuals: A Complementary Analysis of ODE and Agent-Based Models for Simulating methicillin-resistant Staphylococcus aureus Control Strategies in Hospitals. Master’s Thesis, Eberhard Karls University Tübingen.
+From Compartments to Individuals: A Complementary Analysis of ODE and Agent-Based Models for Simulating methicillin-resistant Staphylococcus aureus Control Strategies in Hospitals. 
+Master’s Thesis, Eberhard Karls University Tübingen.
 GitHub repository: https://github.com/mlrx-potindji/script-ode-abm.git
