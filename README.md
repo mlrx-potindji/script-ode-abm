@@ -17,6 +17,10 @@ The batch_run.py file imports classes from both the agents.py and the models.py.
 
 pass
 
+- 'The R scripts for ODE models will be added soon'
+
+pass
+
 ## Requirements
 
 - Python 3.9+
