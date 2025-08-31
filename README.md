@@ -8,6 +8,13 @@ The code provides a modular framework for simulating hospital transmission dynam
 
 ## Repository Structure
 
+- `agents.py` – Core Python script for the agent.
+- `models.py` – Model classes definitions and configurations.
+- `batch_run.py` – Code to run simulations and batch experiments.
+- `plots.py` – Scripts for generating figures and summary statistics.
+
+The batch_run.py file imports classes from both the agents.py and the models.py. Thus, only the batch_run.py needs to be executed. The staffing ration can be customized from the models.py file. After results of the batch run are saved, plots.py can be used to reproduce the plots for the incidence rate of new infected cases and for the cumulative number of resistant cases over time.
+
 pass
 
 ## Requirements
