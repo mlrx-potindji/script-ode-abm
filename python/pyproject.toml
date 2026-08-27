@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mrsa-abm"
+version = "0.1.0"
+description = "Agent-based MRSA transmission models"
+requires-python = ">=3.9"
+dependencies = [
+    "mesa",
+    "networkx",
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "statsmodels",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

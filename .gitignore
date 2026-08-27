@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Generated simulation outputs
+/data/raw/*.csv
+/data/processed/
+/results/figures/
+/results/tables/
+
+.Rhistory
+.Rproj.user/

@@ -1,3 +1,7 @@
+import random
+
+from mesa import Agent
+
 ####
 
 class Patient(Agent):
